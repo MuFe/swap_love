@@ -1,0 +1,323 @@
+[{
+		"name": "唐宫夜宴",
+		"cover": "real/cover/woman/1.png",
+		"id": 1,
+		"list": [{
+				"url": "woman/1/1.png"
+			},
+			{
+				"url": "woman/1/2.png"
+			},
+			{
+				"url": "woman/1/3.png"
+			},
+			{
+				"url": "woman/1/4.png"
+			}
+		]
+	},
+	{
+		"name": "证件照",
+		"id": 2,
+		"cover": "real/cover/woman/2.png",
+		"list": [{
+				"url": "woman/2/1.png"
+			},
+			{
+				"url": "woman/2/2.png"
+			},
+			{
+				"url": "woman/2/3.png"
+			},
+			{
+				"url": "woman/2/4.png"
+			}
+		]
+	}, {
+		"name": "民国风韵",
+		"id": 3,
+		"cover": "real/cover/woman/3.png",
+		"list": [{
+				"url": "woman/3/1.png"
+			},
+			{
+				"url": "woman/3/2.png"
+			},
+			{
+				"url": "woman/3/3.png"
+			},
+			{
+				"url": "woman/3/4.png"
+			}
+		]
+	},
+	{
+		"name": "夏日清凉",
+		"id": 4,
+		"cover": "real/cover/woman/4.png",
+		"list": [{
+				"url": "woman/4/1.png"
+			},
+			{
+				"url": "woman/4/2.png"
+			},
+			{
+				"url": "woman/4/3.png"
+			},
+			{
+				"url": "woman/4/4.png"
+			}
+		]
+	}, {
+		"name": "情绪写真",
+		"id": 5,
+		"cover": "real/cover/woman/5.png",
+		"list": [{
+				"url": "woman/5/1.png"
+			},
+			{
+				"url": "woman/5/2.png"
+			},
+			{
+				"url": "woman/5/3.png"
+			},
+			{
+				"url": "woman/5/4.png"
+			}
+		]
+	},
+	{
+		"name": "芭比之夜",
+		"id": 6,
+		"cover": "real/cover/woman/6.png",
+		"list": [{
+				"url": "woman/6/1.png"
+			},
+			{
+				"url": "woman/6/2.png"
+			},
+			{
+				"url": "woman/6/3.png"
+			},
+			{
+				"url": "woman/6/4.png"
+			}
+		]
+	},
+	{
+		"name": "三坑体验",
+		"id": 7,
+		"cover": "real/cover/woman/7.png",
+		"list": [{
+				"url": "woman/7/1.png"
+			},
+			{
+				"url": "woman/7/2.png"
+			},
+			{
+				"url": "woman/7/3.png"
+			},
+			{
+				"url": "woman/7/4.png"
+			}
+		]
+	},
+	{
+		"name": "糖果炸弹",
+		"id": 8,
+		"cover": "real/cover/woman/8.png",
+		"list": [{
+				"url": "woman/8/1.png"
+			},
+			{
+				"url": "woman/8/2.png"
+			},
+			{
+				"url": "woman/8/3.png"
+			},
+			{
+				"url": "woman/8/4.png"
+			}
+		]
+	},
+	{
+		"name": "秒变爱豆",
+		"id": 9,
+		"cover": "real/cover/woman/9.png",
+		"list": [{
+				"url": "woman/9/1.png"
+			},
+			{
+				"url": "woman/9/2.png"
+			},
+			{
+				"url": "woman/9/3.png"
+			},
+			{
+				"url": "woman/9/4.png"
+			}
+		]
+	},
+	{
+		"name": "古韵之美",
+		"id": 10,
+		"cover": "real/cover/woman/10.png",
+		"list": [{
+				"url": "woman/10/1.png"
+			},
+			{
+				"url": "woman/10/2.png"
+			},
+			{
+				"url": "woman/10/3.png"
+			},
+			{
+				"url": "woman/10/4.png"
+			}
+		]
+	},
+	{
+		"name": "学生时代",
+		"id": 11,
+		"cover": "real/cover/woman/11.png",
+		"list": [{
+				"url": "woman/11/1.png"
+			},
+			{
+				"url": "woman/11/2.png"
+			},
+			{
+				"url": "woman/11/3.png"
+			},
+			{
+				"url": "woman/11/4.png"
+			}
+		]
+	},
+	{
+		"name": "温馨田园",
+		"id": 12,
+		"cover": "real/cover/woman/12.png",
+		"list": [{
+				"url": "woman/12/1.png"
+			},
+			{
+				"url": "woman/12/2.png"
+			},
+			{
+				"url": "woman/12/3.png"
+			},
+			{
+				"url": "woman/12/4.png"
+			}
+		]
+	},
+	{
+		"name": "职业女性",
+		"id": 13,
+		"cover": "real/cover/woman/13.png",
+		"list": [{
+				"url": "woman/13/1.png"
+			},
+			{
+				"url": "woman/13/2.png"
+			},
+			{
+				"url": "woman/13/3.png"
+			},
+			{
+				"url": "woman/13/4.png"
+			}
+		]
+	},
+	{
+		"name": "鬼马少女",
+		"id": 14,
+		"cover": "real/cover/woman/14.png",
+		"list": [{
+				"url": "woman/14/1.png"
+			},
+			{
+				"url": "woman/14/2.png"
+			},
+			{
+				"url": "woman/14/3.png"
+			},
+			{
+				"url": "woman/14/4.png"
+			}
+		]
+	},
+	{
+		"name": "梦回红楼",
+		"id": 15,
+		"cover": "real/cover/woman/15.png",
+		"list": [{
+				"url": "woman/15/1.png"
+			},
+			{
+				"url": "woman/15/2.png"
+			},
+			{
+				"url": "woman/15/3.png"
+			},
+			{
+				"url": "woman/15/4.png"
+			}
+		]
+	},
+	{
+		"name": "民族服饰",
+		"id": 16,
+		"cover": "real/cover/woman/16.png",
+		"list": [{
+				"url": "woman/16/1.png"
+			},
+			{
+				"url": "woman/16/2.png"
+			},
+			{
+				"url": "woman/16/3.png"
+			},
+			{
+				"url": "woman/16/4.png"
+			}
+		]
+	},
+	{
+		"name": "清冷都市",
+		"id": 17,
+		"cover": "real/cover/woman/17.png",
+		"list": [{
+				"url": "woman/17/1.png"
+			},
+			{
+				"url": "woman/17/2.png"
+			},
+			{
+				"url": "woman/17/3.png"
+			},
+			{
+				"url": "woman/17/4.png"
+			}
+		]
+	},
+	{
+		"name": "梦中婚礼",
+		"id": 18,
+		"cover": "real/cover/woman/18.png",
+		"list": [{
+				"url": "woman/18/1.png"
+			},
+			{
+				"url": "woman/18/2.png"
+			},
+			{
+				"url": "woman/18/3.png"
+			},
+			{
+				"url": "woman/18/4.png"
+			}
+		]
+	}
+]

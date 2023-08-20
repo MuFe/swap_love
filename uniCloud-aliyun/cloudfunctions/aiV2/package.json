@@ -1,0 +1,19 @@
+{
+  "name": "aiV2",
+  "dependencies": {
+    "oss": "file:../common/oss",
+    "volcano": "file:../common/volcano"
+  },
+  "extensions": {
+    "uni-cloud-jql": {},
+    "uni-cloud-push": {}
+  },
+  "cloudfunction-config": {
+    "memorySize": 1024,
+    "timeout": 100,
+    "path": "",
+    "runtime": "Nodejs12",
+    "triggers": [],
+    "concurrency": 100
+  }
+}

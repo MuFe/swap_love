@@ -1,0 +1,543 @@
+[{
+		"name": "证件照",
+		"list": [{
+				"url": "man/1/1.png",
+				"model": "mt_1683506040303681536",
+				"temp": "mt_1683506040303681536_1"
+			},
+			{
+				"url": "man/1/2.png",
+				"model": "mt_1683506022235529216",
+				"temp": "mt_1683506022235529216_1",
+				"check": false
+			},
+			{
+				"url": "man/1/3.png",
+				"model": "mt_1683506012508938240",
+				"temp": "mt_1683506012508938240_1"
+			},
+			{
+				"url": "man/1/4.png",
+				"model": "mt_1683505994423099392",
+				"temp": "mt_1683505994423099392_1"
+			},
+			{
+				"url": "man/1/5.png",
+				"model": "mt_1683505984788783104",
+				"temp": "mt_1683505984788783104_1"
+			},
+			{
+				"url": "man/1/6.png",
+				"model": "mt_1683505974672121856",
+				"temp": "mt_1683505974672121856_1"
+			},
+			{
+				"url": "man/1/7.png",
+				"model": "mt_1683505963245928448",
+				"temp": "mt_1683505963245928448_1",
+				"check": false
+			},
+			{
+				"url": "man/1/8.png",
+				"model": "mt_1683505946485489664",
+				"temp": "mt_1683505946485489664_1"
+			},
+			{
+				"url": "man/1/9.png",
+				"model": "mt_1683505936855367680",
+				"temp": "mt_1683505936855367680_1"
+			},
+			{
+				"url": "man/1/10.jpg",
+				"model": "mt_1683506027364253696",
+				"temp": "mt_1683506027364253696_1"
+			}
+		]
+	},
+	{
+		"name": "机械赛博",
+		"list": [{
+				"url": "man/2/1.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/2/2.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/2/3.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/2/4.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/2/5.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/2/6.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/2/7.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/2/8.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/2/9.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/2/10.png",
+				"model": "",
+				"temp": ""
+			}
+		]
+	},
+	{
+		"name": "杂志大片",
+		"list": [{
+				"url": "man/3/1.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/3/2.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/3/3.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/3/4.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/3/5.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/3/6.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/3/7.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/3/8.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/3/9.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/3/10.png",
+				"model": "",
+				"temp": ""
+			}
+		]
+	},
+	{
+		"name": "各行各业",
+		"list": [{
+				"url": "man/4/1.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/4/2.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/4/3.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/4/4.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/4/5.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/4/6.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/4/7.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/4/8.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/4/9.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/4/10.png",
+				"model": "",
+				"temp": ""
+			}
+		]
+	},
+	{
+		"name": "梦回武侠",
+		"list": [{
+				"url": "man/5/1.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/5/2.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/5/3.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/5/4.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/5/5.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/5/6.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/5/7.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/5/8.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/5/9.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/5/10.png",
+				"model": "",
+				"temp": ""
+			}
+		]
+	},
+	{
+		"name": "古风盛典",
+		"list": [{
+				"url": "man/6/1.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/6/2.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/6/3.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/6/4.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/6/5.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/6/6.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/6/7.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/6/8.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/6/9.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/6/10.png",
+				"model": "",
+				"temp": ""
+			}
+		]
+	},
+	{
+		"name": "影视大片",
+		"list": [{
+				"url": "man/7/1.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/7/2.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/7/3.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/7/4.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/7/5.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/7/6.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/7/7.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/7/8.jpg",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/7/9.jpg",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/7/10.png",
+				"model": "",
+				"temp": ""
+			}
+		]
+	},
+	{
+		"name": "萤火之森",
+		"list": [{
+				"url": "man/8/1.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/8/2.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/8/3.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/8/4.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/8/5.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/8/6.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/8/7.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/8/8.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/8/9.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/8/10.png",
+				"model": "",
+				"temp": ""
+			}
+		]
+	},
+	{
+		"name": "学生时代",
+		"list": [{
+				"url": "man/9/1.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/9/2.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/9/3.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/9/4.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/9/5.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/9/6.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/9/7.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/9/8.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/9/9.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/9/10.png",
+				"model": "",
+				"temp": ""
+			}
+		]
+	},
+	{
+		"name": "异域风情",
+		"list": [{
+				"url": "man/10/1.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/10/2.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/10/3.jpg",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/10/4.jpg",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/10/5.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/10/6.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/10/7.jpg",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/10/8.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/10/9.png",
+				"model": "",
+				"temp": ""
+			},
+			{
+				"url": "man/10/10.jpg",
+				"model": "",
+				"temp": ""
+			}
+		]
+	}
+]

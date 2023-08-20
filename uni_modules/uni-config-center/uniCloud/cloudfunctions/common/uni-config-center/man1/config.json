@@ -1,0 +1,217 @@
+[{
+		"name": "证件照",
+		"cover": "real/cover/man/1.png",
+		"id": 101,
+		"list": [{
+				"url": "man/1/1.png"
+			},
+			{
+				"url": "man/1/2.png"
+			},
+			{
+				"url": "man/1/3.png"
+			},
+			{
+				"url": "man/1/4.png"
+			}
+		]
+	},
+	{
+		"name": "梦回武侠",
+		"cover": "real/cover/man/2.png",
+		"id": 102,
+		"list": [{
+				"url": "man/2/1.png"
+			},
+			{
+				"url": "man/2/2.png"
+			},
+			{
+				"url": "man/2/3.png"
+			},
+			{
+				"url": "man/2/4.png"
+			}
+		]
+	},
+	{
+		"name": "杂志大片",
+		"cover": "real/cover/man/3.png",
+		"id": 103,
+		"list": [{
+				"url": "man/3/1.png"
+			},
+			{
+				"url": "man/3/2.png"
+			},
+			{
+				"url": "man/3/3.png"
+			},
+			{
+				"url": "man/3/4.png"
+			}
+		]
+	},
+	{
+		"name": "萤火之森",
+		"cover": "real/cover/man/4.png",
+		"id": 104,
+		"list": [{
+				"url": "man/4/1.png"
+			},
+			{
+				"url": "man/4/2.png"
+			},
+			{
+				"url": "man/4/3.png"
+			},
+			{
+				"url": "man/4/4.png"
+			}
+		]
+	},
+	{
+		"name": "学生时代",
+		"cover": "real/cover/man/5.png",
+		"id": 105,
+		"list": [{
+				"url": "man/5/1.png"
+			},
+			{
+				"url": "man/5/2.png"
+			},
+			{
+				"url": "man/5/3.png"
+			},
+			{
+				"url": "man/5/4.png"
+			}
+		]
+	},
+	{
+		"name": "异域风情",
+		"cover": "real/cover/man/6.png",
+		"id": 106,
+		"list": [{
+				"url": "man/6/1.png"
+			},
+			{
+				"url": "man/6/2.png"
+			},
+			{
+				"url": "man/6/3.png"
+			},
+			{
+				"url": "man/6/4.png"
+			}
+		]
+	},
+	{
+		"name": "英伦骑士",
+		"cover": "real/cover/man/7.png",
+		"id": 107,
+		"list": [{
+				"url": "man/7/1.png"
+			},
+			{
+				"url": "man/7/2.png"
+			},
+			{
+				"url": "man/7/3.png"
+			},
+			{
+				"url": "man/7/4.png"
+			}
+		]
+	},
+	{
+		"name": "哈利波特",
+		"cover": "real/cover/man/8.png",
+		"id": 108,
+		"list": [{
+				"url": "man/8/1.png"
+			},
+			{
+				"url": "man/8/2.png"
+			},
+			{
+				"url": "man/8/3.png"
+			},
+			{
+				"url": "man/8/4.png"
+			}
+		]
+	},
+	{
+		"name": "漫画叠印",
+		"cover": "real/cover/man/9.png",
+		"id": 109,
+		"list": [{
+				"url": "man/9/1.png"
+			},
+			{
+				"url": "man/9/2.png"
+			},
+			{
+				"url": "man/9/3.png"
+			},
+			{
+				"url": "man/9/4.png"
+			}
+		]
+	},
+	{
+		"name": "水墨晕染",
+		"cover": "real/cover/man/10.jpg",
+		"id": 110,
+		"list": [{
+				"url": "man/10/1.jpg"
+			},
+			{
+				"url": "man/10/2.jpg"
+			},
+			{
+				"url": "man/10/3.jpg"
+			},
+			{
+				"url": "man/10/4.jpg"
+			}
+		]
+	},
+	{
+		"name": "复古画报",
+		"cover": "real/cover/man/11.jpg",
+		"id": 111,
+		"list": [{
+				"url": "man/11/1.jpg"
+			},
+			{
+				"url": "man/11/2.jpg"
+			},
+			{
+				"url": "man/11/3.jpg"
+			},
+			{
+				"url": "man/11/4.jpg"
+			}
+		]
+	},
+	{
+		"name": "质感油画",
+		"cover": "real/cover/man/12.jpg",
+		"id": 112,
+		"list": [{
+				"url": "man/12/1.jpg"
+			},
+			{
+				"url": "man/12/2.jpg"
+			},
+			{
+				"url": "man/12/3.jpg"
+			},
+			{
+				"url": "man/12/4.jpg"
+			}
+		]
+	}
+]

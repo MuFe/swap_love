@@ -1,0 +1,120 @@
+{
+    "history": {
+        "schema": {
+            "bsonType": "object",
+            "required": [],
+            "permission": {
+                "read": false,
+                "create": false,
+                "update": false,
+                "delete": false
+            },
+            "properties": {
+                "_id": {
+                    "description": "ID，系统自动生成"
+                },
+                "uid": {
+                    "description": "Uid"
+                },
+                "job": {
+                    "description": "job"
+                },
+                "appId": {
+                    "description": "appId"
+                },
+                "time": {
+                    "description": "time"
+                },
+                "first": {
+                    "description": "time"
+                },
+                "second": {
+                    "description": "time"
+                },
+                "list": {
+                    "bsonType": "array",
+                    "arrayType": "object",
+                    "properties": {
+                        "name": {
+                            "description": "name"
+                        },
+                        "list": {
+                            "bsonType": "array",
+                            "arrayType": "string"
+                        },
+                        "msg": {
+                            "bsonType": "array",
+                            "arrayType": "string"
+                        },
+						"job": {
+						    "description": "job"
+						},
+                    }
+                }
+            }
+        }
+    },
+    "token": {
+        "schema": {
+            "bsonType": "object",
+            "required": [],
+            "permission": {
+                "read": false,
+                "create": false,
+                "update": false,
+                "delete": false
+            },
+            "properties": {
+                "_id": {
+                    "description": "ID，系统自动生成"
+                },
+                "expires": {
+                    "description": "ID，系统自动生成"
+                },
+                "token": {
+                    "description": "ID，系统自动生成"
+                },
+                "appid": {
+                    "description": "ID，系统自动生成"
+                }
+            }
+        }
+    },
+   "uni-id-users": {},
+   "uni-pay-orders": {
+   	"data": [],
+   	"index": [{
+   	    "IndexName": "order_no",
+   	    "MgoKeySchema": { "MgoIndexKeys": [{ "Name": "order_no", "Direction": "1" }], "MgoIsUnique": false }
+   	  },
+   	  {
+   	    "IndexName": "out_trade_no",
+   	    "MgoKeySchema": { "MgoIndexKeys": [{ "Name": "out_trade_no", "Direction": "1" }], "MgoIsUnique": true }
+   	  },
+   	  {
+   	    "IndexName": "transaction_id",
+   	    "MgoKeySchema": { "MgoIndexKeys": [{ "Name": "transaction_id", "Direction": "1" }], "MgoIsUnique": false }
+   	  },
+   	  {
+   	    "IndexName": "create_date",
+   	    "MgoKeySchema": { "MgoIndexKeys": [{ "Name": "create_date", "Direction": "1" }], "MgoIsUnique": false }
+   	  },
+   	  {
+   	    "IndexName": "pay_date",
+   	    "MgoKeySchema": { "MgoIndexKeys": [{ "Name": "pay_date", "Direction": "1" }], "MgoIsUnique": false }
+   	  },
+   	  {
+   	    "IndexName": "total_fee",
+   	    "MgoKeySchema": { "MgoIndexKeys": [{ "Name": "total_fee", "Direction": "1" }], "MgoIsUnique": false }
+   	  },
+   	  {
+   	    "IndexName": "user_id",
+   	    "MgoKeySchema": { "MgoIndexKeys": [{ "Name": "user_id", "Direction": "1" }], "MgoIsUnique": false }
+   	  },
+   	  {
+   	    "IndexName": "appid",
+   	    "MgoKeySchema": { "MgoIndexKeys": [{ "Name": "appid", "Direction": "1" }], "MgoIsUnique": false }
+   	  }
+   	]
+   }
+}

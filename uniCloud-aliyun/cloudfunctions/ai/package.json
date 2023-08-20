@@ -1,0 +1,12 @@
+{
+  "name": "ai",
+  "dependencies": {
+    "native": "file:../common/native",
+    "support": "file:../common/support",
+    "tx": "file:../common/tx",
+    "volcano": "file:../common/volcano"
+  },
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

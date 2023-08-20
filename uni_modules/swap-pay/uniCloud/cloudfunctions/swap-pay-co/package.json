@@ -1,0 +1,17 @@
+{
+    "name": "swap-pay-co",
+    "dependencies": {
+        "uni-config-center": "file:../../../../uni-config-center/uniCloud/cloudfunctions/common/uni-config-center",
+        "uni-id-common": "file:../../../../uni-id-common/uniCloud/cloudfunctions/common/uni-id-common",
+        "swap-pay": "file:../common/swap-pay"
+    },
+    "extensions": [],
+    "cloudfunction-config": {
+        "concurrency": 50,
+        "memorySize": 512,
+        "path": "/swap-pay-co",
+        "timeout": 60,
+        "triggers": [],
+        "runtime": "Nodejs8"
+    }
+}

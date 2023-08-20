@@ -1,0 +1,10 @@
+{
+  "name": "check",
+  "dependencies": {
+    "v3": "file:../common/v3",
+    "oss": "file:../common/oss"
+  },
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
